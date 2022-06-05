@@ -1,3 +1,11 @@
+# React Router DOM:-
+
+## Category wise Different Routes
+![name-of-you-image](https://github.com/shriram083/ReactCart-I/blob/master/public/products.png)
+
+## Product wise Different Routes
+![name-of-you-image](https://github.com/shriram083/ReactCart-I/blob/master/public/product.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    padding: 20px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.innerBox {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+}
+.innerBox img{
+    height: 300px;
+}

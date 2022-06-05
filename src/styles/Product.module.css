@@ -1,0 +1,36 @@
+.Box{
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border-radius: 20px;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Box img{
+    height: 500px;
+}
+.priceBox{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+}
+p{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+.infoBox{
+    width: 500px;
+    padding: 20px;
+}
+.priceBox h3{
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
